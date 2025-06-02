@@ -121,6 +121,44 @@ margin-left: 150px;
     
     .logo-redonda{
       border-radius: 50%;
-      
       padding-left: 90px;
+      display: flex;
     }
+
+    body {
+  font-family: Arial, sans-serif;
+  background: #fff;
+  padding: 20px;
+}
+
+.produtos-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.produtos-container h2 {
+  width: 100%;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+    
